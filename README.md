@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasusn&label=Profile%20views&color=0e75b6&style=flat" alt="vasusn" /> </p>
 
-- 🌱 I’m currently learning **Flutter , Firebase**
+- 🌱 I’m currently learning **React, Node.js**
 
-- 💬 Ask me about **Html, Css, Flutter**
+- 💬 Ask me about **Html, Css, js, Flutter, Firebase**
 
 - 📫 How to reach me **vasunageshri@gmail.com**
 
